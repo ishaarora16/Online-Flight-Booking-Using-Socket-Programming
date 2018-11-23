@@ -1,0 +1,90 @@
+{
+    "flights": {
+        "423FDF": {
+            "date": "01-12-2017", 
+            "cost": 2500, 
+            "place": {
+                "dest": "C", 
+                "source": "A"
+            }, 
+            "seats_array": [
+                "1371d", 
+                "1371d"
+            ], 
+            "time": {
+                "arrival": "1750", 
+                "departure": "1850"
+            }
+        }, 
+        "915526": {
+            "date": "01-12-2017", 
+            "cost": 4500, 
+            "place": {
+                "dest": "B", 
+                "source": "A"
+            }, 
+            "seats_array": [
+                "9dc67", 
+                "9dc67", 
+                "9dc67", 
+                "42b4c", 
+                "42b4c", 
+                "42b4c", 
+                "f28c7", 
+                "f28c7", 
+                "f28c7", 
+                "274df", 
+                "274df", 
+                "274df"
+            ], 
+            "time": {
+                "arrival": "1300", 
+                "departure": "1500"
+            }
+        }, 
+        "57013C": {
+            "date": "01-12-2017", 
+            "cost": 5000, 
+            "place": {
+                "dest": "B", 
+                "source": "A"
+            }, 
+            "seats_array": [
+                "b09fb", 
+                "b09fb", 
+                "1b815", 
+                "1b815"
+            ], 
+            "time": {
+                "arrival": "1800", 
+                "departure": "2000"
+            }
+        }, 
+        "41C77A": {
+            "date": "01-12-2017", 
+            "cost": 2000, 
+            "place": {
+                "dest": "C", 
+                "source": "A"
+            }, 
+            "seats_array": [], 
+            "time": {
+                "arrival": "1410", 
+                "departure": "1510"
+            }
+        }, 
+        "47F0A3": {
+            "date": "01-12-2017", 
+            "cost": 6500, 
+            "place": {
+                "dest": "D", 
+                "source": "A"
+            }, 
+            "seats_array": [], 
+            "time": {
+                "arrival": "2010", 
+                "departure": "2250"
+            }
+        }
+    }
+}
